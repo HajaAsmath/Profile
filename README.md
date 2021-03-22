@@ -1,4 +1,4 @@
-[<p align="center"><img alt="logo" width="500px" src="luffy.gif" /></p>](https://www.crunchyroll.com/)
+[<p align="center"><img alt="logo" width="500px" src="luffy.gif" /></p>](https://raw.githubusercontent.com/HajaAsmath/aravinthraaj/main/luffy.gif)
 <h1 align="center">Hey there 👋</h1>
 
 # I am Haja Asmath
