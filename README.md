@@ -27,6 +27,10 @@
 ### Languages and Libraries
 
 [<img align="left" alt="Java" width="35px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" />](https://docs.oracle.com/en/java/)
+[<img align="left" alt="Java" width="35px" src="https://www.javawebtutor.com/images/hibernate/hibernate-logo.png" />](https://hibernate.org/orm/documentation/5.4/)
+[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/spring-boot/spring-boot.png" />](https://spring.io/projects/spring-boot)
+[<img align="left" alt="Java" width="35px" src="https://kafka.apache.org/images/apache-kafka.png" />](https://kafka.apache.org/documentation/)
+[<img align="left" alt="Java" width="35px" src="https://junit.org/junit4/images/junit5-banner.png" />](https://junit.org/junit5/docs/current/user-guide/)
 [<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
